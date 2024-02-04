@@ -19,7 +19,7 @@
 *Сертификат изготавливается*
 
 ### Итоговым сертификатом о прохождения курса в онлайн школе "Нетология":
-![Image alt](https://github.com/NikitaReb/Portfolio/blob/main/certificates/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82_page-0001.jpg)
+![https://github.com/NikitaReb/Portfolio/blob/main/certificates/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82_page-0001.jpg](https://github.com/NikitaReb/Portfolio/blob/main/certificates/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82_page-0001.jpg)
 
 
 ## Далее Вашему вниманию представляю сертификаты направлений, которые изучил на курсе:
